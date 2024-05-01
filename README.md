@@ -3,7 +3,9 @@ Welcome to Python101! This repository is designed as a comprehensive guide for b
 Here, you'll find a variety of resources including tutorials, example codes, and exercises to help you understand and master the basics of Python.
 
 **Getting Started**
+
 **Prerequisites**
+
 Before you start, make sure you have Python installed on your computer. 
 You can download Python from python.org. This project is compatible with Python 3.x.
 
