@@ -1,8 +1,3 @@
-# python101
-
-
-Sure, I can help you create a README for your GitHub repository "python101." Here's a sample template that you can use as a starting point:
-
 # Python101
 Welcome to Python101! This repository is designed as a comprehensive guide for beginners to learn Python programming. Here, you'll find a variety of resources including tutorials, example codes, and exercises to help you understand and master the basics of Python.
 
