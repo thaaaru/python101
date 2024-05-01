@@ -4,9 +4,10 @@ Here, you'll find a variety of resources including tutorials, example codes, and
 
 **Getting Started**
 **Prerequisites**
-Before you start, make sure you have Python installed on your computer. You can download Python from python.org. This project is compatible with Python 3.x.
+Before you start, make sure you have Python installed on your computer. 
+You can download Python from python.org. This project is compatible with Python 3.x.
 
-# Installation
+**Installation**
 To get a local copy up and running, follow these simple steps:
 
 **Clone the repository:**
