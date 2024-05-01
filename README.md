@@ -9,23 +9,30 @@ Before you start, make sure you have Python installed on your computer. You can 
 To get a local copy up and running, follow these simple steps:
 
 # Clone the repository:
-bash
-Copy code
+
 git clone https://github.com/thaaaru/python101.git
+
 Navigate to the project directory:
-bash
-Copy code
+
 cd python101
+
 Usage
+
 Each folder in this repository corresponds to a specific topic in Python. Topics are structured to progress from simple to more complex. To get the most out of this repository, start with the basics folder and gradually move to advanced topics.
 
 # Contents
-Basics: Learn the fundamentals of Python including variables, data types, and basic operators.
+Basics: 
+Learn the fundamentals of Python including variables, data types, and basic operators.
 Control Structures: Explore conditional statements and loops to control the flow of your programs.
+
 Functions: Understand how to define and use functions, including scope and function arguments.
+
 Modules: Dive into Python modules and packages, and learn how to reuse code.
+
 Exception Handling: Learn to handle errors gracefully and maintain the flow of your programs.
+
 Advanced Topics: Delve into more complex subjects like object-oriented programming and data manipulation.
+
 # Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
